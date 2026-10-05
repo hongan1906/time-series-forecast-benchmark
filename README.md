@@ -1,6 +1,6 @@
 # Evaluate a forecast: AAPL next-day price
 
-Course project for **Big Data Analytics (Arcada), Week 3**.
+Course project for **Big Data Analytics (Arcada)**.
 Question: *can we trust a machine-learning forecast of Apple's next-day closing price more than "tomorrow = today"?*
 
 **Answer in one line:** no. Ridge, XGBoost and CatBoost are 2% to 5% *worse* than the naive forecast on average
